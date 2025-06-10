@@ -5,9 +5,13 @@
 
 ---
 
-## 📱 Prototype Preview  
-Tap into the future of radiology with our interactive prototype:  
-🔗 [View](https://motiff.com/proto/zEt8TWkByGqvqsLgUzp6H1G?nodeId=2%3A1308&pageId=0%3A1&startingPointNodeId=2%3A87&scaling=scale-down "VertebrAI (Updated)")
+## 📱 UI Snippet Gallery
+
+| 📸 Login | 🧭 Home | 📷 Capture | 📊 Results |
+|--------|-------|----------|----------|
+| [![login.png](https://postimg.cc/yW6k4v18) | [![home.png](https://i.postimg.cc/your-home-image.png)](https://postimg.cc/your-home-full) | [![capture.png](https://i.postimg.cc/your-capture-image.png)](https://postimg.cc/your-capture-full) | [![results.png](https://i.postimg.cc/your-results-image.png)](https://postimg.cc/your-results-full) |
+
+> _Click each image to view full screen._
 
 ---
 
@@ -25,9 +29,8 @@ Perfect for early-stage development and usability testing in medical imaging inn
 
 ## 🚧 Note  
 This is a **design mockup only** – not a working app.  
-Development is done but with a local app along with a hardware prototype.
+Development is local-only, along with a hardware prototype.
 
-💡 Inspired by medical workflows and user-centered design principles
+💡 Inspired by real-world medical workflows and user-centered design principles.
 
 > 🎓 This is part of a university design project focused on enhancing scoliosis diagnosis accuracy using deep learning and intuitive UI.
-
