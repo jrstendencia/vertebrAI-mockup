@@ -7,7 +7,7 @@
 
 ## 📱 Prototype Preview  
 Tap into the future of radiology with our interactive prototype:  
-🔗 [View](https://www.figma.com/proto/YOUR-LINK-HERE](https://motiff.com/proto/s2key4CAGY0AUJ52Jhakb1W?nodeId=2%3A1308&pageId=0%3A1&scaling=min-zoom "VertebrAI")
+🔗 [View](https://motiff.com/proto/s2key4CAGY0AUJ52Jhakb1W?nodeId=2%3A1308&pageId=0%3A1&scaling=min-zoom "VertebrAI")
 
 ---
 
