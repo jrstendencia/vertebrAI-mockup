@@ -9,7 +9,7 @@
 
 | 📸 Login | 🧭 Home | 📷 Capture | 📊 Results |
 |--------|-------|----------|----------|
-| [![login.png](https://postimg.cc/yW6k4v18) | [![home.png](https://i.postimg.cc/your-home-image.png)](https://postimg.cc/your-home-full) | [![capture.png](https://i.postimg.cc/your-capture-image.png)](https://postimg.cc/your-capture-full) | [![results.png](https://i.postimg.cc/your-results-image.png)](https://postimg.cc/your-results-full) |
+| [![login.png](https://i.postimg.cc/T2gmb4Bg/Screenshot-2025-06-11-062044.png) | [![home.png](https://i.postimg.cc/your-home-image.png)](https://postimg.cc/your-home-full) | [![capture.png](https://i.postimg.cc/your-capture-image.png)](https://postimg.cc/your-capture-full) | [![results.png](https://i.postimg.cc/your-results-image.png)](https://postimg.cc/your-results-full) |
 
 > _Click each image to view full screen._
 
