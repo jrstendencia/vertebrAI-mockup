@@ -9,11 +9,11 @@
 
 | Landing Page | Login | Upload |
 |--------------|-------|--------|
-| [![Landing](https://i.postimg.cc/T2gmb4Bg/Screenshot-2025-06-11-062044.png)] | [![Login](https://i.postimg.cc/kgRGKVpG/Screenshot-2025-06-11-062103.png)] | [![Upload](https://i.postimg.cc/8zgQXjCj/Screenshot-2025-06-11-062112.png)] |
+| [![Landing](https://i.postimg.cc/T2gmb4Bg/Screenshot-2025-06-11-062044.png)](https://postimg.cc/T2gmb4Bg) | [![Login](https://i.postimg.cc/kgRGKVpG/Screenshot-2025-06-11-062103.png)](https://postimg.cc/kgRGKVpG) | [![Upload](https://i.postimg.cc/8zgQXjCj/Screenshot-2025-06-11-062112.png)](https://postimg.cc/8zgQXjCj) |
 
 | Image Preview | Results | Logout |
 |---------------|---------|--------|
-| [![Preview](https://i.postimg.cc/26LNXvnL/Screenshot-2025-06-11-062122.png)] | [![Results](https://i.postimg.cc/tRPH33XL/Screenshot-2025-06-11-062133.png)] | [![Logout](https://i.postimg.cc/nzDN1xtv/Screenshot-2025-06-11-062142.png)] |
+| [![Preview](https://i.postimg.cc/26LNXvnL/Screenshot-2025-06-11-062122.png)](https://postimg.cc/26LNXvnL) | [![Results](https://i.postimg.cc/tRPH33XL/Screenshot-2025-06-11-062133.png)](https://postimg.cc/tRPH33XL) | [![Logout](https://i.postimg.cc/nzDN1xtv/Screenshot-2025-06-11-062142.png)](https://postimg.cc/nzDN1xtv) |
 
 > 🖱️ _Click any image to view it in full._
 
