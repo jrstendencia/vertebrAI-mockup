@@ -7,11 +7,15 @@
 
 ## 📱 UI Snippet Gallery
 
-| 📸 Login | 🧭 Home | 📷 Capture | 📊 Results |
-|--------|-------|----------|----------|
-| [![login.png](https://i.postimg.cc/T2gmb4Bg/Screenshot-2025-06-11-062044.png) | [![home.png](https://i.postimg.cc/your-home-image.png)](https://postimg.cc/your-home-full) | [![capture.png](https://i.postimg.cc/your-capture-image.png)](https://postimg.cc/your-capture-full) | [![results.png](https://i.postimg.cc/your-results-image.png)](https://postimg.cc/your-results-full) |
+| Landing Page | Login | Upload |
+|--------------|-------|--------|
+| [![Landing](https://i.postimg.cc/T2gmb4Bg/Screenshot-2025-06-11-062044.png) | [![Login](https://i.postimg.cc/kgRGKVpG/Screenshot-2025-06-11-062103.png) | [![Upload](https://i.postimg.cc/YOUR_IMAGE_3.png)](https://postimg.cc/YOUR_IMAGE_3) |
 
-> _Click each image to view full screen._
+| Image Preview | Results | Logout |
+|---------------|---------|--------|
+| [![Preview](https://i.postimg.cc/YOUR_IMAGE_4.png)](https://postimg.cc/YOUR_IMAGE_4) | [![Results](https://i.postimg.cc/YOUR_IMAGE_5.png)](https://postimg.cc/YOUR_IMAGE_5) | [![Logout](https://i.postimg.cc/YOUR_IMAGE_6.png)](https://postimg.cc/YOUR_IMAGE_6) |
+
+> 🖱️ _Click any image to view it in full._
 
 ---
 
@@ -23,14 +27,14 @@ VertebrAI is a concept mobile app that supports:
 - 📏 Line visualization for Cobb angle estimation  
 - 👩‍⚕️ Radiologist-friendly UI with high contrast & clean layout  
 
-Perfect for early-stage development and usability testing in medical imaging innovation.
+Ideal for early-stage development, testing, and showcasing medical imaging innovation.
 
 ---
 
 ## 🚧 Note  
-This is a **design mockup only** – not a working app.  
-Development is local-only, along with a hardware prototype.
+This is a **design mockup only** – not yet a functional app.  
+The system works locally with a hardware prototype (hello, Raspberry Pi 😉).
 
-💡 Inspired by real-world medical workflows and user-centered design principles.
+💡 Built with deep learning goals and user-centered design principles.
 
-> 🎓 This is part of a university design project focused on enhancing scoliosis diagnosis accuracy using deep learning and intuitive UI.
+> 🎓 Part of a university capstone project to improve scoliosis diagnosis accuracy through automation and clean UI/UX.
