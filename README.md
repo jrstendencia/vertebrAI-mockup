@@ -7,7 +7,7 @@
 
 ## 📱 Prototype Preview  
 Tap into the future of radiology with our interactive prototype:  
-🔗 [View](https://motiff.com/proto/s2key4CAGY0AUJ52Jhakb1W?nodeId=2%3A1308&pageId=0%3A1&scaling=min-zoom "VertebrAI")
+🔗 [View](https://motiff.com/proto/zEt8TWkByGqvqsLgUzp6H1G?nodeId=2%3A1308&pageId=0%3A1&startingPointNodeId=2%3A87&scaling=scale-down "VertebrAI (Updated)")
 
 ---
 
