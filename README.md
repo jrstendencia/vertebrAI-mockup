@@ -15,8 +15,6 @@
 |---------------|---------|--------|
 | [![Preview](https://i.postimg.cc/26LNXvnL/Screenshot-2025-06-11-062122.png)](https://postimg.cc/26LNXvnL) | [![Results](https://i.postimg.cc/tRPH33XL/Screenshot-2025-06-11-062133.png)](https://postimg.cc/tRPH33XL) | [![Logout](https://i.postimg.cc/nzDN1xtv/Screenshot-2025-06-11-062142.png)](https://postimg.cc/nzDN1xtv) |
 
-> 🖱️ _Click any image to view it in full._
-
 ---
 
 ## 🔍 What is VertebrAI?
