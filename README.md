@@ -30,7 +30,7 @@ Ideal for early-stage development, testing, and showcasing medical imaging innov
 ---
 
 ## 🚧 Note  
-This is a **design mockup only** – not yet a functional app.  
+This is a **design mockup only** – not a functional app.  
 The system works locally with a hardware prototype (hello, Raspberry Pi 😉).
 
 💡 Built with deep learning goals and user-centered design principles.
